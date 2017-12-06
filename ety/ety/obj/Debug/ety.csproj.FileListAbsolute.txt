@@ -1,0 +1,14 @@
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\ety.dll
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\ety.pdb
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\ety.dll.manifest
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\ety.vsto
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.csprojResolveAssemblyReference.cache
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.Properties.Resources.resources
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.Ribbon1.resources
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.csproj.GenerateResource.Cache
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.csproj.CoreCompileInputs.cache
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.dll
+C:\Users\hegyalja\source\repos\ety\ety\obj\Debug\ety.pdb
+C:\Users\hegyalja\source\repos\ety\ety\bin\Debug\ety.dll.config
